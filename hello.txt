@@ -14,7 +14,7 @@ helro arguigu! helo git!
 
 可以输入中文ma?
 好像可以耶！！！
-但是记住，切换出去以后要把输入法切回英文哦
+但是记住，切换出去以后要把输入法切回英文哦!!
 
 
 hello atguigu! helo git!
