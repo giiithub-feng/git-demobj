@@ -13,6 +13,7 @@ hello atguigu! helo git!
 helro arguigu! helo git!
 
 可以输入中文ma?
+好像可以耶！！！
 
 
 hello atguigu! helo git!
